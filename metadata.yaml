@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34346'
     url: http://www.gutenberg.org/2009/agents/34346
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30066#Laboratory-Manual-of-Glass-Blowing
 gutenberg_bookshelf:
 - Manufacturing
 - Technology
